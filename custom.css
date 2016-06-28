@@ -1,0 +1,4 @@
+/* get rid of ads */
+#logo > table > tbody > tr > td:nth-child(2) { display: none; }
+div.contentwrapper div.col3-wide.right { display: none; }
+div.contentwrapper div.col13.left { width: 100%; }
